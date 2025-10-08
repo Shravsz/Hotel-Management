@@ -35,6 +35,7 @@ Import the SQL file located in the DATABASE FILE folder.
 
 Run the project:
 http://localhost/hotelmgmt
+
 📁 Project Structure
 hotelmgmt/
 │
