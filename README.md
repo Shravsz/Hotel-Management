@@ -37,14 +37,12 @@ Run the project:
 http://localhost/hotelmgmt
 
 📁 Project Structure
+
 hotelmgmt/
 │
 ├── css/               # Stylesheets
-
 ├── js/                # JavaScript files
-
 ├── img/               # Images
-
 ├── DATABASE FILE/     # SQL database file
 ├── index.php          # Main login page
 ├── dashboard.php      # Admin dashboard
