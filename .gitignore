@@ -1,0 +1,30 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE folders
+.vscode/
+.idea/
+
+# Logs and backups
+*.log
+*.bak
+
+# Environment and database credentials
+.env
+
+# Cache and temporary files
+cache/
+tmp/
+
+# Vendor dependencies (if any)
+vendor/
+
+# Node (if you have JS parts)
+node_modules/
+
+# Ignore personal or config files
+*.zip
+*.rar
+*.7z
