@@ -40,8 +40,11 @@ http://localhost/hotelmgmt
 hotelmgmt/
 │
 ├── css/               # Stylesheets
+
 ├── js/                # JavaScript files
+
 ├── img/               # Images
+
 ├── DATABASE FILE/     # SQL database file
 ├── index.php          # Main login page
 ├── dashboard.php      # Admin dashboard
